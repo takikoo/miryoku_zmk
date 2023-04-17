@@ -8,4 +8,4 @@ jobs:
     uses: ./.github/workflows/main.yml
     secrets: inherit
     with:
-      board: '["corne-ish_zen_v2_left","corne-ish_zen_v2_right"]'
+      board: '["corne-ish_zen_left","corne-ish_zen_right"]'
